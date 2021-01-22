@@ -8,4 +8,6 @@ obj
 bin
 msvc
 build
+a.out
+.vscode
 ~$*
